@@ -648,7 +648,7 @@ Search                         LOGO                    Login Subscribe
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     .gh-navigation.is-stacked .gh-navigation-inner {
         padding: 0;
     }
